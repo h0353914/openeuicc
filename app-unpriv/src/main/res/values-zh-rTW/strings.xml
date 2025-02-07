@@ -16,11 +16,11 @@
     <string name="compatibility_check_known_broken">不在已知錯誤清單中</string>
     <string name="compatibility_check_known_broken_desc">確保您的裝置不存在與可插拔 eSIM 相關的錯誤。</string>
     <string name="compatibility_check_known_broken_fail">很抱歉，您的裝置在存取可插拔 eSIM 時存在錯誤。這並不表示完全無法使用，但我們不保證該應用在您裝置上的行為。</string>
-    <string name="compatibility_check_usb">USB 讀卡機支援</string>
-    <string name="compatibility_check_usb_desc">您的裝置是否支援透過 USB 讀卡機管理 eSIM？</string>
+    <string name="compatibility_check_usb">USB 晶片讀卡機支援</string>
+    <string name="compatibility_check_usb_desc">您的裝置是否支援透過 USB 晶片讀卡機管理 eSIM？</string>
     <string name="compatibility_check_usb_ok">您可以透過此裝置上的標準 USB CCID 讀卡機管理 eSIM (即使您在這裡有任何其他檢查項失敗)。請插入讀卡機，然後開啟此應用程式以這種方式管理 eSIM。</string>
-    <string name="compatibility_check_usb_fail">您的裝置不支援 USB 讀卡機。</string>
-    <string name="compatibility_check_verdict">結論 (USB 讀卡機以外)</string>
+    <string name="compatibility_check_usb_fail">您的裝置不支援 USB 晶片讀卡機。</string>
+    <string name="compatibility_check_verdict">結論 (USB 晶片讀卡機以外)</string>
     <string name="compatibility_check_verdict_desc">根據之前的所有檢查，您的裝置與可插拔 eSIM 卡相容的可能性有多大？</string>
     <string name="compatibility_check_verdict_ok">您可以使用和管理插入此裝置的可插拔 eSIM 卡。</string>
     <string name="compatibility_check_verdict_known_broken">已知您的裝置在存取可插拔 eSIM 卡時存在問題。\n%s</string>

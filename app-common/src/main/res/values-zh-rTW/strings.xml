@@ -22,8 +22,8 @@
     <string name="toast_eid_copied">已複製 EID 到剪貼簿</string>
     <string name="toast_atr_copied">已複製 ATR 到剪貼簿</string>
     <string name="usb_permission">授予 USB 權限</string>
-    <string name="usb_permission_needed">需要獲得訪問 USB 讀卡機的權限。</string>
-    <string name="usb_failed">無法透過 USB 讀卡機連線到 eSIM。</string>
+    <string name="usb_permission_needed">需要獲得訪問 USB 晶片讀卡機的權限。</string>
+    <string name="usb_failed">無法透過 USB 晶片讀卡機連線到 eSIM。</string>
     <string name="task_notification">長時間運行的背景作業</string>
     <string name="task_profile_download">正在下載 eSIM 設定檔</string>
     <string name="task_profile_download_failure">無法下載 eSIM 設定檔</string>
