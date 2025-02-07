@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="no_euicc">在此裝置上未檢測到此應用程式可訪問的可插拔 eUICC 卡。請插入相容卡或 USB 讀卡機。</string>
+    <string name="no_euicc">在此裝置上未檢測到此應用程式可訪問的可插拔 eUICC 卡。請插入相容卡或 USB 晶片讀卡機。</string>
     <string name="no_profile">此 eSIM 上還沒有設定檔</string>
     <string name="unknown">未知</string>
     <string name="help">幫助</string>
@@ -14,7 +14,7 @@
     <string name="disable">停用</string>
     <string name="delete">刪除</string>
     <string name="rename">重新命名</string>
-    <string name="enable_disable_timeout">等待 eSIM 切換設定檔時超時。這可能是您手機基頻處理器韌體中的一個錯誤。請嘗試切換飛航模式、重新啟動應用程式或重新啟動手機</string>
+    <string name="enable_disable_timeout">等待 eSIM 切換設定檔時逾時。這可能是您手機基頻處理器韌體中的一個錯誤。請嘗試切換飛航模式、重新啟動應用程式或重新啟動手機</string>
     <string name="switch_did_not_refresh">操作成功, 但是您手機的基頻處理器沒有重新整理。您可能需要切換飛航模式或重新啟動，以便使用新的設定檔。</string>
     <string name="toast_profile_enable_failed">無法切換到新的 eSIM 設定檔。</string>
     <string name="toast_profile_delete_confirm_text_mismatched">輸入的確認文字不匹配</string>
